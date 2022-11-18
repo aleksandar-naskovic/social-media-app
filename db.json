@@ -145,6 +145,13 @@
       "postId": 14,
       "time": "11/18/2022, 5:11:44 PM",
       "id": 14
+    },
+    {
+      "comment": "Zika test",
+      "userId": 4,
+      "postId": 14,
+      "time": "11/18/2022, 8:32:00 PM",
+      "id": 15
     }
   ],
   "users": [
@@ -170,6 +177,14 @@
       "password": "123",
       "confirmPassword": "123",
       "id": 3
+    },
+    {
+      "firstName": "Zika",
+      "lastName": "Zikic",
+      "email": "zika@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 4
     }
   ]
 }

@@ -1,12 +1,15 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+  <div id="app" >
+    <div id="nav" class="bg-primary">
+        <p class="text-left text-white font-semibold font-sans text-3xl font-bold tracking-tight sm:text-4xl sm:leading-none">
+      SOCIAL MEDIA APP
+        </p>
     </div>
     <router-view/>
   </div>
 </template>
+
+
 
 <style>
 #app {
