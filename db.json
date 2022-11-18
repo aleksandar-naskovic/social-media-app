@@ -1,0 +1,175 @@
+{
+  "posts": [
+    {
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "userId": 2,
+      "time": "11/17/2022, 12:54:16 PM",
+      "id": 5
+    },
+    {
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "userId": 2,
+      "time": "11/17/2022, 1:39:06 PM",
+      "id": 6
+    },
+    {
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "userId": 2,
+      "time": "11/17/2022, 2:05:40 PM",
+      "id": 7
+    },
+    {
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "userId": 2,
+      "time": "11/17/2022, 2:06:51 PM",
+      "id": 8
+    },
+    {
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "userId": 2,
+      "time": "11/17/2022, 2:19:11 PM",
+      "id": 9
+    },
+    {
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "userId": 2,
+      "time": "11/17/2022, 2:19:41 PM",
+      "id": 10
+    },
+    {
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,AA",
+      "userId": 2,
+      "time": "11/17/2022, 2:21:02 PM",
+      "id": 11
+    },
+    {
+      "post": "asd",
+      "userId": 1,
+      "time": "11/18/2022, 1:18:03 AM",
+      "id": 12
+    },
+    {
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "userId": 1,
+      "time": "11/18/2022, 3:29:50 PM",
+      "id": 13
+    },
+    {
+      "post": "1234",
+      "userId": 2,
+      "time": "11/18/2022, 4:23:51 PM",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "postId": 11,
+      "userId": 1,
+      "time": "11/17/2022, 1:39:06 PM"
+    },
+    {
+      "id": 3,
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "postId": 11,
+      "userId": 2,
+      "time": "11/17/2022, 1:39:06 PM"
+    },
+    {
+      "id": 4,
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "postId": 11,
+      "userId": 2,
+      "time": "11/17/2022, 1:39:06 PM"
+    },
+    {
+      "id": 5,
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.d",
+      "postId": 11,
+      "userId": 2,
+      "time": "11/17/2022, 1:39:06 PM"
+    },
+    {
+      "id": 6,
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.asdfweqwesds",
+      "postId": 10,
+      "userId": 2,
+      "time": "11/17/2022, 1:39:06 PM"
+    },
+    {
+      "comment": "asdfsad",
+      "userId": 2,
+      "postId": 9,
+      "time": "11/17/2022, 5:24:32 PM",
+      "id": 8
+    },
+    {
+      "comment": "Test comment!!",
+      "userId": 1,
+      "postId": 11,
+      "time": "11/18/2022, 3:30:14 PM",
+      "id": 9
+    },
+    {
+      "comment": "been the industry's standard dummy text ever since the 1500",
+      "userId": 2,
+      "postId": 13,
+      "time": "11/18/2022, 3:42:35 PM",
+      "id": 10
+    },
+    {
+      "comment": "been the industry's standard dummy text ever since the 1500",
+      "userId": 2,
+      "postId": 12,
+      "time": "11/18/2022, 3:42:40 PM",
+      "id": 11
+    },
+    {
+      "comment": "been the industry's standard dummy text ever since the 1500",
+      "userId": 1,
+      "postId": 12,
+      "time": "11/18/2022, 3:42:40 PM",
+      "id": 12
+    },
+    {
+      "comment": "testt",
+      "userId": 2,
+      "postId": 10,
+      "time": "11/18/2022, 4:22:46 PM",
+      "id": 13
+    },
+    {
+      "comment": "Pera",
+      "userId": 3,
+      "postId": 14,
+      "time": "11/18/2022, 5:11:44 PM",
+      "id": 14
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Aleksandar",
+      "lastName": "Naskovic",
+      "email": "aleksandar.naskovich@gmail.com",
+      "password": "123"
+    },
+    {
+      "firstName": "Petar",
+      "lastName": "Petrovic",
+      "email": "test@test",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 2
+    },
+    {
+      "firstName": "Pera",
+      "lastName": "Peric",
+      "email": "pera@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 3
+    }
+  ]
+}
